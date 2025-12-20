@@ -24,7 +24,6 @@
 - Using Markdown in Azure DevOps
 
 ## 📥 Installation
-- Obsidian Community Plugins: https://obsidian.md/plugins?id=azure-devops-backlog
 - Manually: go to the [latest release](https://github.com/jettptacek/azure-devops-plugin/releases/latest) → copy `main.js`, `manifest.json`, to `your-vault/.obsidian/plugins/azure-devops-backlog/`
 
 ## TODO
