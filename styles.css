@@ -790,14 +790,6 @@
     border-left: 3px solid var(--interactive-accent);
 }
 
-.modal-content {
-    max-width: 500px;
-}
-
-.setting-item-description {
-    margin-bottom: 8px;
-}
-
 /* ===========================================
    Tree View Dynamic Styles
    =========================================== */
